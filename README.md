@@ -27,9 +27,8 @@ This project is a collection of HTML practice exercises and a professional resum
 
 Simply open any HTML file in a web browser:
 
-bash
-# Double-click the HTML file to open in default browser
-# OR use a local server
+Double-click the HTML file to open in default browser
+OR use a local server
 python -m http.server 8000
 # Then visit http://localhost:8000
 
@@ -39,3 +38,4 @@ python -m http.server 8000
 This project is for educational and personal portfolio purposes.
 
 Created by Chaluva Raj.N⭐
+
