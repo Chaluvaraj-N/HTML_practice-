@@ -15,7 +15,10 @@ This project is a collection of HTML practice exercises and a professional resum
 | `video.gallery.html` | Video gallery page |
 | `border.html` | CSS border styling examples |
 | `cs.jpeg.jpeg` | Profile photo |
-
+|`image_table .html` | Image within table layout |
+| `colspan.html` | Table colspan demonstration |
+| `rowspan.html` | Table rowspan demonstration |
+| `rowspan_colspan.html` | Combined rowspan and colspan demonstration |
 
 
 
@@ -38,4 +41,5 @@ python -m http.server 8000
 This project is for educational and personal portfolio purposes.
 
 Created by Chaluva Raj.N⭐
+
 
