@@ -19,6 +19,10 @@ This project is a collection of HTML practice exercises and a professional resum
 | `colspan.html` | Table colspan demonstration |
 | `rowspan.html` | Table rowspan demonstration |
 | `rowspan_colspan.html` | Combined rowspan and colspan demonstration |
+| `contact.html` | Contact form page with name, email, subject, and message fields |
+| `login.html` | Login form with email and password authentication fields |
+| `forgotpassword.html` | Password reset form with email, phone, and new password fields |
+| `Registration.html` | User registration form with name, email, and password fields |
 
 
 
@@ -41,5 +45,6 @@ python -m http.server 8000
 This project is for educational and personal portfolio purposes.
 
 Created by Chaluva Raj.N⭐
+
 
 
