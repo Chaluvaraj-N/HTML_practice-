@@ -30,6 +30,16 @@ This project is a collection of HTML practice exercises and a professional resum
 | `Registration.html` | User registration form with name, email, and password fields |
 | `forgotpassword.html` | Password reset form with email, phone, and new password fields |
 | `forgot page.html` | Forgot password page (Note: space in filename) |
+| `index.html` | Main HTML tutorial page demonstrating various HTML elements including headings, paragraphs, text formatting, links, images, audio/video, tables, forms, and HTML5 semantic elements |
+| `about.html` | Simple about page with basic HTML structure |
+| `ass.html` | Assignment file containing HTML practice questions and exercises |
+| `cs.jpeg.jpeg` | Student/profile image used throughout the tutorial |
+| `python.jpg` | Python programming course image for course listings |
+| `john.mp3` | Audio file sample for HTML audio element demonstration |
+| `wooh.mp3` | Additional audio file for HTML audio element demonstration |
+| `army.mp4` | Video file for HTML video element demonstration |
+| `trip.mp4` | Video file for HTML video element demonstration |
+| `zameer.mp4` | Video file for HTML video element demonstration |
 
 
 
@@ -48,6 +58,9 @@ This project is a collection of HTML practice exercises and a professional resum
 - Phone: +91 7899663405
 - LinkedIn: [Chaluva Raj N](https://www.linkedin.com/in/chaluva-raj-n-04a661313)
 - GitHub: [Chaluvaraj-N](https://github.com/Chaluvaraj-N)
+
+
+*Project created for Dhee Coding Lab - HTML Training*
 
 
 ## How to View
@@ -70,5 +83,6 @@ This project is for educational and personal portfolio purposes.
 ---
 
 *Created by Chaluva Raj.N*
+
 
 
